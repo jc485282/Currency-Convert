@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_b1225408a8ba8dd73be415986e75d54af39995c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.github.GrenderG/Prefs/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0492f89ef6b9760e6db56a8a644c35fcf419854d">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.github.GrenderG-Prefs-1.1_81d46bd506129e6a544706ed23566042cf928afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_d16eed1af1e19f86644bab3ed088abd94858d9d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e1239424d0c0cead28cc2358d8694dc651908116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_a478bcd46e6eff3613ececb5795d5e6f3de6a7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_d7bd858f58b83c99f77a04d6ed7eca865a8e1479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3aef9a0ac3a7d4c9a65ba24b9467e44828c71722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_ea74e25bbd35231ade7e7fe01a7e696efa577ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d2ac2813ead44e5959f04b1bd6646df2bfb0d0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_a69b7daa51da7c20b0ddc362c8ba8596d4c17605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_d8237c8fa3bb631438e4da7380d427c615fc3f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_66560e93f9196b91ee3374073ffb797bfae7b132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_f514381f19a4baf3f2b170797c7a8bccc4a49ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0-rc2/6fd74ef202cfb785db12a652e153ea003123c36b/baseLibrary-2.2.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fd74ef202cfb785db12a652e153ea003123c36b">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.0-rc2_b2b85f452ce33dc435e9a5d9d675090dd9e79802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_2398d29afbdffaa50be4d22cb1fef80ab2e7b4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7f13f4516384444282e10bce680a4dd9be6615d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_e929b2653ade0d839f5bd4c4801897375f7465c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_9eae7d9b78b2c2bc0ea0a87acccf09ccdf3b220c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/agency.tango.android/material-intro-screen/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b821bc341f62ad65334507a90a2b07c9c7cfc53d">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/agency.tango.android-material-intro-screen-0.0.3_047d87a9ca4bb774fe6733f76b22563b5ac850e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_af8bdcfe133815dafa9999b963b581c754987f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0c557d8f72fa8c64cac1aa3e0c6940543355dd58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_a998a215c4730f3cdd8a1405fdeb964f4566efe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_d7427c1f8edf53a58fea745c2c927943847ca9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/richasharma/Downloads/Currency-Converter-Android-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9579a768926c03e898c040e943a1014ce5045d47.jar" />
+    </item>
+
+</items>
